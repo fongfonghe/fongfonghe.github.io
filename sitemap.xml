@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://release.com/index.html</loc>
+    <lastmod>2020-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://release.com/images/line_33415609769899.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://release.com/images/line_33420346618857.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://release.com/%E6%9C%AA%E5%91%BD%E5%90%8D-5.html</loc>
+    <lastmod>2020-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://release.com/images/line_33415609769899200x133.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://release.com/images/line_33083633877763198x132.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://release.com/images/line_33439779147500.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
