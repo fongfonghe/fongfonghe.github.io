@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="release.com" resolutions="1x" timestamp="1577875823471">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fongfonghe.com" resolutions="1x" timestamp="1577893984671">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="___-5.css" crc="4232308423" ref="未命名-5"/>
     <file name="index.css" crc="356997074" ref="index"/>
+    <file name="2.css" crc="4232308423" ref="2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:未命名-5"/>
-    <file name="museutils.js" crc="3939489907" ref="index:未命名-5"/>
-    <file name="whatinput.js" crc="86476730" ref="index:未命名-5"/>
-    <file name="museconfig.js" crc="128606099" ref="index:未命名-5"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2"/>
+    <file name="museutils.js" crc="3939489907" ref="index:2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2"/>
+    <file name="museconfig.js" crc="128606099" ref="index:2"/>
     <file name="webpro.js" crc="3856315280" ref="index"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
     <file name="touchswipe.js" crc="3888935200" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:未命名-5"/>
-    <file name="require.js" crc="4177726516" ref="index:未命名-5"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:2"/>
+    <file name="require.js" crc="4177726516" ref="index:2"/>
   </folder>
   <folder name="images">
     <file name="line_33083633877763.jpg" crc="4076153204" ref="index">
@@ -29,22 +29,22 @@
     <file name="line_33420346618857.jpg" crc="177478453" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="line_33015032941836.jpg" crc="344080795" ref="index:未命名-5">
+    <file name="line_33015032941836.jpg" crc="344080795" ref="index:2">
+      <caption webpage="2" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="未命名-5" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u219-4.png" crc="228992636" ref="index"/>
-    <file name="line_33415609769899200x133.jpg" crc="191835314" seo="true" ref="未命名-5">
-      <caption webpage="未命名-5" alt=""/>
+    <file name="line_33415609769899200x133.jpg" crc="191835314" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
     </file>
-    <file name="line_33083633877763198x132.jpg" crc="3989313080" seo="true" ref="未命名-5">
-      <caption webpage="未命名-5" alt=""/>
+    <file name="line_33083633877763198x132.jpg" crc="3989313080" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
     </file>
-    <file name="line_33439779147500.jpg" crc="3975410758" seo="true" ref="未命名-5">
-      <caption webpage="未命名-5" alt=""/>
+    <file name="line_33439779147500.jpg" crc="3975410758" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3805612898" seo="true" mt="1577875316190" redirect="true"/>
-  <file name="未命名-5.html" crc="447169128" seo="true" mt="1577874507837" redirect="true"/>
+  <file name="index.html" crc="249184224" seo="true" mt="1577893772141" redirect="true"/>
+  <file name="2.html" crc="3997383899" seo="true" mt="1577893765189" redirect="true"/>
 </manifest>
